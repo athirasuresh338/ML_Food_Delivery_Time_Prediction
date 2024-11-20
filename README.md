@@ -1,5 +1,3 @@
----
-
 # 🍕🚴‍♂️ Food Delivery Time Prediction using Machine Learning 🕒
 
 ## 📋 Overview  
